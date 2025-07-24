@@ -56,29 +56,30 @@ Welcome to the iCodeGuru Session Repository! This repository documents our codin
 
   
   <tr>
-    <td>1</td>
-    <td>Contains Duplicate & Valid Anagram</td>
-    <td><a href="./class01">session-1</a></td>
-    <td><a href="[https://www.facebook.com/share/v/19ze53ocqH/]">Session 1 Recording</a></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Two Sum & Group Anagrams</td>
-    <td><a href="./class02">session-2</a></td>
-    <td><a href="[https://www.facebook.com/share/v/1AehP1yntT/]">Session 2 Recording</a></td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Discussed about Top K frequent element</td>
-    <td><a href="./class03">session-3</a></td>
-    <td><a href="[https://www.facebook.com/share/v/1gtawqsZ4x/]">Session 3 Recording</a></td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Top K frequent element</td>
-    <td><a href="./class04">session-3</a></td>
-    <td><a href="[https://www.facebook.com/share/v/16eVZG6oXX/]">Session 3 Recording</a></td>
-  </tr>
+  <td>1</td>
+  <td>Contains Duplicate & Valid Anagram</td>
+  <td><a href="./class01">Session 1</a></td>
+  <td><a href="https://www.facebook.com/share/v/19ze53ocqH/">Session 1 Recording</a></td>
+</tr>
+<tr>
+  <td>2</td>
+  <td>Two Sum & Group Anagrams</td>
+  <td><a href="./class02">Session 2</a></td>
+  <td><a href="https://www.facebook.com/share/v/1AehP1yntT/">Session 2 Recording</a></td>
+</tr>
+<tr>
+  <td>3</td>
+  <td>Discussed about Top K Frequent Element</td>
+  <td><a href="./class03">Session 3</a></td>
+  <td><a href="https://www.facebook.com/share/v/1gtawqsZ4x/">Session 3 Recording</a></td>
+</tr>
+<tr>
+  <td>4</td>
+  <td>Top K Frequent Element</td>
+  <td><a href="./class04">Session 4</a></td>
+  <td><a href="https://www.facebook.com/share/v/16eVZG6oXX/">Session 4 Recording</a></td>
+</tr>
+
 </table>
 
 
