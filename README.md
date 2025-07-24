@@ -21,6 +21,7 @@
   </tr>
 </table>
 ----
+
 ## 👨‍🏫 Moderators
 
 <table>
@@ -52,23 +53,31 @@ Welcome to the iCodeGuru Session Repository! This repository documents our codin
     <th>Folder</th>
     <th>Recording</th>
   </tr>
+
+  
   <tr>
     <td>1</td>
-    <td>Two Sum Problem</td>
-    <td><a href="./sessions/session-1">session-1</a></td>
-    <td><a href="[Recording Link]">Session 1 Recording</a></td>
+    <td>Contains Duplicate & Valid Anagram</td>
+    <td><a href="./class01">session-1</a></td>
+    <td><a href="[https://www.facebook.com/share/v/19ze53ocqH/]">Session 1 Recording</a></td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Binary Search Implementation</td>
-    <td><a href="./sessions/session-2">session-2</a></td>
-    <td><a href="[Recording Link]">Session 2 Recording</a></td>
+    <td>Two Sum & Group Anagrams</td>
+    <td><a href="./class02">session-2</a></td>
+    <td><a href="[https://www.facebook.com/share/v/1AehP1yntT/]">Session 2 Recording</a></td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Linked List Cycle Detection</td>
-    <td><a href="./sessions/session-3">session-3</a></td>
-    <td><a href="[Recording Link]">Session 3 Recording</a></td>
+    <td>Discussed about Top K frequent element</td>
+    <td><a href="./class03">session-3</a></td>
+    <td><a href="[https://www.facebook.com/share/v/1gtawqsZ4x/]">Session 3 Recording</a></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Top K frequent element</td>
+    <td><a href="./class04">session-3</a></td>
+    <td><a href="[https://www.facebook.com/share/v/16eVZG6oXX/]">Session 3 Recording</a></td>
   </tr>
 </table>
 
