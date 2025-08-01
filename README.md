@@ -79,6 +79,45 @@ Welcome to the iCodeGuru Session Repository! This repository documents our codin
   <td><a href="./class04">Session 4</a></td>
   <td><a href="https://www.facebook.com/share/v/16eVZG6oXX/">Session 4 Recording</a></td>
 </tr>
+<tr>
+  <td>5</td>
+  <td>Encode and Decode array & Product of Array Except slef</td>
+  <td><a href="./class05">Session 5</a></td>
+  <td><a href="https://www.facebook.com/share/v/18y77vR5KX/">Session 4 Recording</a></td>
+</tr>
+<tr>
+  <td>6</td>
+  <td>Longest Consecutive Sequence</td>
+  <td><a href="./class06">Session 4</a></td>
+  <td><a href="https://www.facebook.com/share/v/1CMbfxvkGz/">Session 5 Recording</a></td>
+</tr>
+<tr>
+  <td>7</td>
+  <td>Valid Palindrome & 3sum</td>
+  <td><a href=".">Session 7</a></td>
+  <td><a href="https://www.facebook.com/share/v/15oedZ3MZh/
+  ">Session 7 Recording</a></td>
+</tr>
+<tr>
+  <td>8</td>
+  <td>3sum</td>
+  <td><a href=".">Session 8</a></td>
+  <td><a href="https://www.facebook.com/share/v/16mib93k7K/
+  ">Session 8 Recording</a></td>
+</tr>
+<tr>
+  <td>9</td>
+  <td>Longest Substring Without repeating Characters</td>
+  <td><a href="./class04">Session 9</a></td>
+  <td><a href="https://www.facebook.com/share/v/1EHfkPFzwp/
+  ">Session 9 Recording</a></td>
+</tr>
+<tr>
+  <td>10</td>
+  <td>Longest Repeating Character replacement</td>
+  <td><a href=".">Session 10</a></td>
+  <td><a href="https://www.facebook.com/share/v/16m5n4V7KQ/">Session 10 Recording</a></td>
+</tr>
 
 </table>
 
